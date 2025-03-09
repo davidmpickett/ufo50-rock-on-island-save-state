@@ -3,6 +3,21 @@ A mod for UFO 50 that allows you to create save states between waves within a le
 
 Thanks to [JoshPennPierson](https://github.com/JoshPennPierson) for the [helpful tutorial on saving object states](https://github.com/Game-Development-Resources/Saving-Object-States-Between-Rooms/tree/master).
 
+## Features
+Adds two new icons to the player menu when cursor is over Path, Stony Ground, or the Cave: 
+1) Create Save Point
+   - Stores position of every Tower, Fire, Chicken, Bush & Boulder.
+   - Stores current Wave, total Meat, remaining Health
+   - Stores Player position and Weapon upgrades
+   - Only available during the Build phase between Waves
+   - Once you leave a level, save data will be lost
+2) Load Save Point
+   - Available during Build phase or Attack phase
+   - Resets the game to the previously stored state
+   - The player's cursor may be in the wrong position on load, but as soon as the player moves it returns in place
+   - If the current level has multiple screens, the camera may jump
+
+
 ## How to Install the Mod
 
 Note: Installing untrusted mods is risky. Install at your own risk. 
