@@ -1,6 +1,8 @@
 # UFO 50 Mod - Save between waves in Rock-on! Island
 A mod for UFO 50 that allows you to create save states between waves within a level so you don't have to reset the whole level. Compatible with UFO 50 v1.7.0.2.
 
+Thanks to [JoshPennPierson](https://github.com/JoshPennPierson) for the [helpful tutorial on saving object states](https://github.com/Game-Development-Resources/Saving-Object-States-Between-Rooms/tree/master).
+
 ## How to Install the Mod
 
 Note: Installing untrusted mods is risky. Install at your own risk. 
