@@ -7,7 +7,7 @@ Thanks to [JoshPennPierson](https://github.com/JoshPennPierson) for the [helpful
 Adds two new icons to the player menu when cursor is over Path, Stony Ground, or the Cave:
 
 ### Create Save Point
-![The new menu](/images/save_menu.jpg)
+![The save icon](/images/save_menu.jpg)
 - Stores position of every Tower, Fire, Chicken, Bush & Boulder
 - Stores current Wave, total Meat, remaining Health
 - Stores Player position and Weapon upgrades
@@ -15,6 +15,7 @@ Adds two new icons to the player menu when cursor is over Path, Stony Ground, or
 - Once you leave a level, save data will be lost
   
 ### Load Save Point
+![The load icon](/images/load_menu.jpg)
 - Available during Build phase or Attack phase
 - Resets the game to the previously stored state
 - If player tries to Load when not possible, error messages are shown
